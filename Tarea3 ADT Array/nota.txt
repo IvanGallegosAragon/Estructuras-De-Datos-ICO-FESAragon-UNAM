@@ -1,1 +1,0 @@
-No hace falta instalar nada, solo tener Python
