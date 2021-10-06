@@ -1,1 +1,0 @@
-No se necesita ningun elemento para abrir este archivo mas que tener python y un aditor de codigo/texto
